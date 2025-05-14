@@ -20,6 +20,12 @@ function App() {
                     I will be adding more text to this section to see how it looks. Okay,
                     I think this is enough text for now.
                 </p>
+                <iframe src = "https://daltonmermis.shinyapps.io/college_aid_app/"
+                title = "Shiny App Visuals"
+                width = "100%"
+                height = "800px"
+                style = {{ border: "none", marginTop: "20px" }}>
+                </iframe>
             </div>
         </div>
         <a href="https://vite.dev" target="_blank">
